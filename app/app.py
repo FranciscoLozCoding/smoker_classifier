@@ -115,7 +115,7 @@ def load_interface():
 
         ## Final Report
         For more details about our Ensemble Classifier and the individual models, please refer to our Jupyter notebooks in our project repository.\n
-        [DSC 478 Project Repo](https://github.com/msoria17/dsc478-project)
+        [DSC 478 Project Repo](https://github.com/FranciscoLozCoding/smoker_classifier)
         """
         )
 
